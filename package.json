@@ -2,7 +2,7 @@
   "name": "donto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vijay-Ky.github.io/hospital-template-website-Donto-Medical-007/",
+  "homepage": "/hospital-template-website-Donto-Medical-007/",
   "dependencies": {
     "@fontsource/josefin-sans": "^4.5.9",
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
